@@ -15,12 +15,12 @@
 3) Soluções;
 
 ## Aula 3
-1) Operações com Strings;
-  1.1) Fatiamento;
-  1.2) Análise;
-  1.3) Transformações;
-  1.4) Divisão;
-  1.5) Junção;
+1) Operações com Strings; <br>
+  1.1) Fatiamento;<br>
+  1.2) Análise;<br>
+  1.3) Transformações;<br>
+  1.4) Divisão;<br>
+  1.5) Junção;<br>
 2) Exercícios;
 3) Soluções;
 
