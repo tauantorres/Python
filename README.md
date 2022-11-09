@@ -8,9 +8,9 @@
 6) Foramtações da saída de dados;
 
 ## Aula 2
-1) Introdução à módulos
-  1.1) math
-  1.2) random
+1) Introdução à módulos<br>
+  1.1) math<br>
+  1.2) random<br>
 2) Exercícios;
 3) Soluções;
 
