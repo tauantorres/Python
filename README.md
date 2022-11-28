@@ -80,9 +80,9 @@
 9)Soluções.
 
 ## Aula 11
-1) Listas (Parte II) - Variáveis Compostas (Parte III);
-2) Exercícios;
-3)Soluções. 
+1) Listas (Parte II) - Variáveis Compostas (Parte III);<br>
+2) Exercícios;<br>
+3) Soluções.<br>
   
   
   
