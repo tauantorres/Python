@@ -77,7 +77,7 @@
 6) Ligação entre listas;
 7) Cópia de uma lista;
 8) Exercícios;
-9)Soluções.
+9) Soluções.
 
 ## Aula 11
 1) Listas (Parte II) - Variáveis Compostas (Parte III);<br>
