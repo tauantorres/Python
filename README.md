@@ -56,10 +56,10 @@
 2) Operações com Tuplas:<br>
   2.1) Operações com Tuplas;<br>
   2.2) Métodos com Tuplas;<br>
-    2.2.1) .sorted();<br>
-    2.2.2) Unindo Tuplas;<br>
-    2.2.3) .count();<br>
-    2.2.4) .inedx();<br>
+    2.2.1) .sorted();<br><br>
+    2.2.2) Unindo Tuplas;<br><br>
+    2.2.3) .count();<br><br>
+    2.2.4) .inedx();<br><br>
 3) Exercícios;
 4) Soluções.
 
@@ -69,9 +69,9 @@
   2.1) .append();<br>
   2.2) .insert();<br>
 3) Eliminando Elementos:<br>
-  3.1) del;<br><br>
-  3.2) .pop();<br><br>
-  3.3) .remove();<br><br>
+  3.1) del;<br>
+  3.2) .pop();<br>
+  3.3) .remove();<br>
 4) Gerando Listas;<br>
 5) Usando 'Estruturas de repetição' com listas;
 6) Ligação entre listas;
