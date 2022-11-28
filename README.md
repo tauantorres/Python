@@ -69,10 +69,10 @@
   2.1) .append();<br>
   2.2) .insert();<br>
 3) Eliminando Elementos:<br>
-  3.1) del;<br>
-  3.2) .pop();<br>
-  3.3) .remove();<br>
-4) Gerando Listas;br>
+  3.1) del;<br><br>
+  3.2) .pop();<br><br>
+  3.3) .remove();<br><br>
+4) Gerando Listas;<br>
 5) Usando 'Estruturas de repetição' com listas;
 6) Ligação entre listas;
 7) Cópia de uma lista;
