@@ -56,10 +56,10 @@
 2) Operações com Tuplas:<br>
   2.1) Operações com Tuplas;<br>
   2.2) Métodos com Tuplas:<br>
-      2.2.1) .sorted();<br>
-      2.2.2) Unindo Tuplas;<br>
-      2.2.3) .count();<br>
-      2.2.4) .inedx();<br>
+       - 2.2.1) .sorted();<br>
+       - 2.2.2) Unindo Tuplas;<br>
+       - 2.2.3) .count();<br>
+       - 2.2.4) .inedx();<br>
 3) Exercícios;
 4) Soluções.
 
